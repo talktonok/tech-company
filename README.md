@@ -1,8 +1,9 @@
 # tech-company
-link for all CRUD request below below
-## https://tech-company.herokuapp.com/api/company
+link for all CRUD request is
+https://tech-company.herokuapp.com/api/company
 
-####eg.
+eg.
+
 ###POST:
 https://tech-company.herokuapp.com/api/company
 ### GET:
