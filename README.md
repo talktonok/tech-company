@@ -2,8 +2,11 @@
 link for all CRUD request below below
 ## https://tech-company.herokuapp.com/api/company
 
-eg
-#POST:
-https://tech-company.herokuapp.com/company
+eg.
+###POST:
+https://tech-company.herokuapp.com/api/company
 ### GET:
-https://tech-company.herokuapp.com/company
+https://tech-company.herokuapp.com/api/company
+
+### PATCH:
+https://tech-company.herokuapp.com/api/company
