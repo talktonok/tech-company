@@ -2,9 +2,9 @@
 link for all CRUD request is
 https://tech-company.herokuapp.com/api/company
 
+eg.
 
-###POST:
-
+### POST:
 https://tech-company.herokuapp.com/api/company
 ### GET:
 https://tech-company.herokuapp.com/api/company
